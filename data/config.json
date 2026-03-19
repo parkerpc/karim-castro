@@ -1,11 +1,11 @@
 {
   "info": {
     "name": "Karim Castro",
-    "cargo": "Diputada por la RegiÃ³n Puno",
+    "cargo": "Diputada por la RegiÃÂ³n Puno",
     "email": "contacto@karimcastro.pe",
     "phone": "+51 999 999 999",
     "addr": "Av. El Sol 123, Puno",
-    "slogan": "Experiencia, preparaciÃ³n y voluntad de servicio. Una voz firme por el desarrollo real de Puno en el Congreso Nacional.",
+    "slogan": "Experiencia, preparaciÃÂ³n y voluntad de servicio. Una voz firme por el desarrollo real de Puno en el Congreso Nacional.",
     "fb": "#",
     "ig": "#",
     "tt": "#",
@@ -15,7 +15,7 @@
   "stats": [
     {
       "n": 15,
-      "l": "AÃ±os de trayectoria"
+      "l": "AÃÂ±os de trayectoria"
     },
     {
       "n": 11,
@@ -24,58 +24,58 @@
   ],
   "agenda": [
     {
-      "date": "15 Mar Â· 2026",
+      "date": "15 Mar ÃÂ· 2026",
       "title": "Cabildo abierto en Juliaca",
-      "loc": "Plaza Bolognesi, Juliaca â 10:00 a.m.",
+      "loc": "Plaza Bolognesi, Juliaca Ã¢ÂÂ 10:00 a.m.",
       "tag": "Presencial"
     },
     {
-      "date": "18 Mar Â· 2026",
+      "date": "18 Mar ÃÂ· 2026",
       "title": "Visita a comunidades de Capachica",
-      "loc": "Distrito de Capachica â 9:00 a.m.",
+      "loc": "Distrito de Capachica Ã¢ÂÂ 9:00 a.m.",
       "tag": "Comunidad"
     },
     {
-      "date": "22 Mar Â· 2026",
+      "date": "22 Mar ÃÂ· 2026",
       "title": "Foro educativo regional",
-      "loc": "Auditorio UNA PUNO â 3:00 p.m.",
+      "loc": "Auditorio UNA PUNO Ã¢ÂÂ 3:00 p.m.",
       "tag": "Foro"
     },
     {
-      "date": "28 Mar Â· 2026",
-      "title": "Mitin central de campaÃ±a",
-      "loc": "Plaza de Armas, Puno â 6:00 p.m.",
+      "date": "28 Mar ÃÂ· 2026",
+      "title": "Mitin central de campaÃÂ±a",
+      "loc": "Plaza de Armas, Puno Ã¢ÂÂ 6:00 p.m.",
       "tag": "Mitin"
     }
   ],
   "testis": [
     {
-      "stars": "âââââ",
+      "stars": "Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂ",
       "text": "\"Karim conoce Puno de verdad. La he visto en mi comunidad, hablando con la gente.\"",
-      "name": "JosÃ© Quispe",
-      "from": "AzÃ¡ngaro"
+      "name": "JosÃÂ© Quispe",
+      "from": "AzÃÂ¡ngaro"
     },
     {
-      "stars": "âââââ",
+      "stars": "Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂ",
       "text": "\"Como agricultora, necesitamos a alguien que entienda el campo. Karim tiene propuestas reales.\"",
-      "name": "MarÃ­a Condori",
+      "name": "MarÃÂ­a Condori",
       "from": "Capachica"
     },
     {
-      "stars": "âââââ",
-      "text": "\"Tiene propuestas concretas, no promesas vacÃ­as. Le doy mi voto con convicciÃ³n.\"",
+      "stars": "Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂ",
+      "text": "\"Tiene propuestas concretas, no promesas vacÃÂ­as. Le doy mi voto con convicciÃÂ³n.\"",
       "name": "Carlos Mamani",
       "from": "Juliaca"
     },
     {
-      "stars": "âââââ",
+      "stars": "Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂ",
       "text": "\"La salud en las comunidades rurales es un drama. Karim lo sabe y tiene un plan real.\"",
       "name": "Rosa Huanca",
       "from": "Ilave"
     },
     {
-      "stars": "âââââ",
-      "text": "\"Joven, preparada y con amor por Puno. El NÂ°2 de Ahora NaciÃ³n.\"",
+      "stars": "Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂ",
+      "text": "\"Joven, preparada y con amor por Puno. El NÃÂ°2 de Ahora NaciÃÂ³n.\"",
       "name": "Pedro Flores",
       "from": "Puno ciudad"
     }
@@ -86,11 +86,11 @@
       "v": true
     },
     {
-      "name": "Juliaca (San RomÃ¡n)",
+      "name": "Juliaca (San RomÃÂ¡n)",
       "v": true
     },
     {
-      "name": "AzÃ¡ngaro",
+      "name": "AzÃÂ¡ngaro",
       "v": true
     },
     {
@@ -110,7 +110,7 @@
       "v": true
     },
     {
-      "name": "HuancanÃ©",
+      "name": "HuancanÃÂ©",
       "v": true
     },
     {
@@ -137,9 +137,9 @@
   "bio": {
     "educacion": [
       {
-        "titulo": "MaestrÃ­a en GestiÃ³n PÃºblica",
+        "titulo": "MaestrÃÂ­a en GestiÃÂ³n PÃÂºblica",
         "inst": "Universidad Nacional del Altiplano",
-        "anio": "2010"
+        "anio": "2019"
       },
       {
         "titulo": "Licenciada en [Especialidad]",
@@ -150,7 +150,7 @@
     "experiencia": [
       {
         "cargo": "[Cargo anterior]",
-        "inst": "[InstituciÃ³n]",
+        "inst": "[InstituciÃÂ³n]",
         "periodo": "2018 - 2022"
       },
       {
