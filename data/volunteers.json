@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "nombre": "Harry Solor",
+    "phone": "997006621",
+    "prov": "Puno",
+    "roles": [
+      "Difusión en redes sociales"
+    ],
+    "fecha": "18/3/2026",
+    "id": 1773886454923
+  }
+]
